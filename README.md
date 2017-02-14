@@ -1,2 +1,2 @@
 # JValidatorMaster
-A Simple Validator class for forms fields.
+A Simple Validator class for form fields.
